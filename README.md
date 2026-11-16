@@ -37,7 +37,7 @@ Não utiliza API externa ou banco de dados.
 
 ## Vídeo de demonstração
 
-demo/projetolivraria.mp4
+(https://youtube.com/shorts/UTqwMqZIDSk)
 
 ## Como executar
 npm install
