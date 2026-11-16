@@ -6,8 +6,8 @@ O BookLab é um aplicativo de livraria virtual desenvolvido em React Native, que
 
 ## Aluno
 
-- **Nome:** [Seu nome completo]
-- **RGM:** [Seu RGM]
+- **Nome:** Júlia Carolina Gomes Barbosa
+- **RGM:** 44077254
 
 ## Telas
 
@@ -37,8 +37,9 @@ Não utiliza API externa ou banco de dados.
 
 ## Vídeo de demonstração
 
-`demo/projetolivraria.mp4
+demo/projetolivraria.mp4
 
 ## Como executar
 npm install
+
 npx expo start
